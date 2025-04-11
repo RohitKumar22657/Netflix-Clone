@@ -31,12 +31,6 @@ This is a front-end **Netflix Clone** created using **HTML and CSS**, designed t
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 
----
-
-## 📁 Folder Structure
-
-netflix-clone/ ├── images/ │ └── (all project images like tv.png, logo.svg etc.) ├── videos/ │ └── (video file used inside the TV preview) ├── index.html ├── style.css └── README.md
-
 
 ---
 
